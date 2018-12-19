@@ -144,10 +144,10 @@ Alpha should be a float between 0 and 1."
           (light-class (append '((background light)) class))
           (dark-class (append '((background dark)) class))
           (variant ,variant)
-          (s-base03    "#002b36")
-          (s-base02    "#073642")
+          (s-base03    "#040404")
+          (s-base02    "#080808")
           ;; emphasized content
-          (s-base01    "#586e75")
+          (s-base01    "#5b7558")
           ;; primary content
           (s-base00    "#657b83")
           (s-base0     "#839496")
